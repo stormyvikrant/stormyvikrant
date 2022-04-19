@@ -1,6 +1,6 @@
 ### Hi ,I am Vikrant Prajapati 👋
 
-- 🌱 I’m currently learning  Full Stack Webdeveloper
+- 🌱 I’m currently learning  Full-Stack Web Developer
 - 📫 How to reach me:[@linkedin](https://www.linkedin.com/in/vikrant-prajapati-5888011ab/) ,[@vikrant E-mail](Vikrantmodern12@gmail.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend almost 5 hours doing coading everyday
