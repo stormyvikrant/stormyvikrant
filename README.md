@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React Based Projects**
+- 🔭 I’m currently persuing **FULL STACK WEB DEVELOPMENT Course at Masai School **
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **React.Js**
 
-- 💬 Ask me about **MERN JAVASCRIPT**
+- 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **vikrantmodern12@gmail.com**
 
