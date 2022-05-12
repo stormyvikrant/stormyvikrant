@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VIKRANT PRAJAPATI</h1>
+<h1 align="center">Hi 👋, I'm Vikrant Prajapati</h1>
 <h3 align="center">A passionate & Dedicated Full Stack Web Developer,Specialization in Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormyvikrant&label=Profile%20views&color=0e75b6&style=flat" alt="stormyvikrant" /> </p>
@@ -14,6 +14,8 @@
 - 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **vikrantmodern12@gmail.com**
+
+- 📝 I regularly write articles on **https://medium.com/@vikrantmodern12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
