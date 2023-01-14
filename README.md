@@ -121,7 +121,7 @@
 <table>
   <tr>
     <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" alt="stormyvikrant>
+   <img src=" https://github-readme-streak-stats.herokuapp.com/?user=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" />
    </td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" /></td>
   </tr>
