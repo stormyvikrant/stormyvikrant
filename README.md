@@ -117,7 +117,7 @@
   <br>
 
 <p align="center"> <a href="https://github.com/stormyvikrant"><img src="https://github-profile-trophy.vercel.app/?username=stormyvikrant&theme=dark&count_private=true" alt="stormyvikrant" /></a> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" /> -->
 <img align="center src="https://github-readme-stats.vercel.app/api?username=shinokada&show_icons=true&theme=tokyonight"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" />
 
