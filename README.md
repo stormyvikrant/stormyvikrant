@@ -97,7 +97,7 @@
       alt="expressjs" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb" />
-      <img src="https://img.shields.io/badge/AngulaJS-4EA94B?style=for-the-badge&logo=angularjs&logoColor=white"
+      <img src="https://img.shields.io/badge/AngulaJS-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="Angular" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
@@ -120,7 +120,7 @@
 
 <table>
   <tr>
-    <td valign="top">vikrnat</td>
+    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormyvikrant&show_icons=true&locale=en&layout=compact" alt="stormyvikrant" /></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" /></td>
   </tr>
 </table>
