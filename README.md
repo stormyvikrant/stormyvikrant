@@ -120,7 +120,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormyvikrant&show_icons=true&locale=en&layout=compact" alt="stormyvikrant" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfp05405&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" /></td>
   </tr>
 </table>
