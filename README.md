@@ -118,12 +118,7 @@
 
 <p align="center"> <a href="https://github.com/stormyvikrant"><img src="https://github-profile-trophy.vercel.app/?username=stormyvikrant&theme=dark&count_private=true" alt="stormyvikrant" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormyvikrant&show_icons=true&locale=en&layout=compact" alt="stormyvikrant" /></p>
-<!-- <table>
-  <tr>
-<!--     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" /></td> -->
-   
-    <td align="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" /></td>
-  </tr>
-</table> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormyvikrant&show_icons=true&locale=en&theme=algolia&count_private=true" alt="stormyvikrant" />
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormyvikrant&theme=2077" width="100%" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=stormyvikrant&theme=react-dark&custom_title=stormyvikrant%20's%20contribution%20Graph&hide_border=true" />
